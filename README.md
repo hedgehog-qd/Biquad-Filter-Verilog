@@ -10,5 +10,5 @@ To use this filter directly or making editions, just open `iir_design_waveSim.xp
 ## Simulation screenshots
 ![calculation_simulation](images/calculation_simulation.jpg)
 ![calculation_simulation2](images/calculation_simulation2.jpg)
-![waveform_sim](images/waveform_sim.jpg)
-![waveform_sim2](images/waveform_sim2.jpg)
+![waveform_sim](images/waveform_sim.png)
+![waveform_sim2](images/waveform_sim2.png)
